@@ -16,10 +16,13 @@
 - Vite
 - Tailwind CSS
 
+<br />
 ## 🔗 Website - https://iphone-15-threejs.netlify.app/
 
 
+
+<br />
 ## 📝 Tutorial
 <div align="center">Followed the JSMastery Youtube video - https://www.youtube.com/watch?v=kRQbRAJ4-Fs&t=8224s&ab_channel=JavaScriptMastery</div>
-<a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a align="center" href="https://youtu.be/kRQbRAJ4-Fs" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
   
